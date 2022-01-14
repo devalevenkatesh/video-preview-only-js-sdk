@@ -6,9 +6,9 @@ This demo uses routing to show case how one can clear-up the video being preview
 
 Running Steps:
 ```
-git clone <this repo URL>
+git clone https://github.com/devalevenkatesh/video-preview-only-js-sdk.git
 
-cd video-preview-demo-app
+cd video-preview-only-js-sdk
 
 npm install
 
